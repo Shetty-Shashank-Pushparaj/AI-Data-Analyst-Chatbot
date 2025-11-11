@@ -1,0 +1,12 @@
+# Python "junk" files
+__pycache__/
+*.pyc
+
+# The "toolbox" (this is machine-specific)
+venv/
+
+# Secret keys! DO NOT UPLOAD!
+.env
+
+# Uploaded data and temporary scripts
+uploads/
