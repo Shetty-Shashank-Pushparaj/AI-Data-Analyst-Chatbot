@@ -1,9 +1,5 @@
 # AI Data Analyst & Chatbot
 
-![Project Demo GIF](https://i.imgur.com/your-gif-url.gif)
-
-*A live demo GIF is the **most important** thing for a recruiter. Use a free tool like **ScreenToGif** to record your app working (upload, charts appearing, and you asking a chat question). Upload that GIF to a site like [imgur.com](https://imgur.com/) and paste the link above.*
-
 ## 💡 About This Project
 
 This is a full-stack web application that acts as an **AI Data Analyst**. A user (like a business analyst) can upload any raw CSV file and, within seconds, receive a complete dashboard with automated charts, high-level insights, and a chatbot ready to answer complex, natural-language questions about their data.
